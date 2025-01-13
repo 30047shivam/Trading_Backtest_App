@@ -1,0 +1,4 @@
+trade_id,symbol,quantity,price
+1,AAPL,10,150
+2,GOOGL,5,2800
+3,MSFT,8,300
